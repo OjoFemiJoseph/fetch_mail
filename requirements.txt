@@ -1,0 +1,4 @@
+imaplib2
+email
+pandas
+python-dotenv
